@@ -1,1 +1,1 @@
-# dmiportfolio
+# dmiportfolio Open index.html in your browser to view my Digital Media Innovation portfolio, showcasing UX/UI projects, web builds, prototypes, and multimedia work. Coded with HTML, CSS, and JavaScript.
